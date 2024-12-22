@@ -1,0 +1,3 @@
+input - delete 한쌍
+input1 - delete1 - delete2 -delete3 한쌍
+순서로 -i 와 -d를 치시면 보고서에 적힌 경우의수로 나옵니다
